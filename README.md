@@ -5,8 +5,8 @@
 <p align="center">I ❤️ solving great challenges using code. <br><br> Software Engineer and Computer Scientist passionate about tackling complex problems using technology. I like to balance my career between technical and managerial skills, so I have gained experience coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development. I am deeply interested in Web and Mobile Development, CI/CD, Cloud Computing, Artificial Intelligence, and Machine Learning.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusAquatico&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-seven-silk.vercel.app/api/top-langs/?username=MatheusAquatico&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusAquatico&theme=darcula&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-seven-silk.vercel.app/api/top-langs/?username=MatheusAquatico&show_icons=true&theme=darcula&layout=compact" />
  </div>
  
  &nbsp;
