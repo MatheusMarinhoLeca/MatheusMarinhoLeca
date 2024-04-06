@@ -75,4 +75,4 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-![Snake animation](https://github.com/MatheusAquatico/MatheusAquatico/blob/output/github-contibution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusAquatico/MatheusAquatico/blob/output/github-contribution-grid-snake.svg)
