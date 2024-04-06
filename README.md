@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">I ❤️ solving great challenges using code. <br><br> Software engineer and computer scientist passionate about tackling complex problems using technology. I like to balance my career between technical and managerial skills, so I have gained experience coordinating projects, analyzing, and continually improving software, integrating all of this with the fundamentals of agile development. I am deeply interested in Web and Mobile Development, CI/CD, Cloud Computing, Artificial Intelligence, and Machine Learning.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusAquatico&theme=radical&mode=weekly" />
