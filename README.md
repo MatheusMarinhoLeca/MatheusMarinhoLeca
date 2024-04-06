@@ -70,7 +70,11 @@
 <a href="https://medium.com/@MatheusAquatico" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-![snake gif](https://github.com/MatheusAquatico/MatheusAquatico/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusAquatico/MatheusAquatico/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusAquatico/MatheusAquatico/output/github-contribution-grid-snake.svg">
+  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusAquatico/MatheusAquatico/output/github-contribution-grid-snake-dark.svg">
+</picture>
