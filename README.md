@@ -5,8 +5,8 @@
 <p align="center">I ❤️ solving great challenges using code. <br><br> Software Engineer and Computer Scientist passionate about tackling complex problems using technology. I like to balance my career between technical and managerial skills, so I have gained experience coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development. I am deeply interested in Web and Mobile Development, CI/CD, Cloud Computing, Artificial Intelligence and Machine Learning.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusAquatico&theme=darcula&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-seven-silk.vercel.app/api/top-langs/?username=MatheusAquatico&show_icons=true&theme=darcula&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusMarinhoLeca&theme=darcula&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-seven-silk.vercel.app/api/top-langs/?username=MatheusMarinhoLeca&show_icons=true&theme=darcula&layout=compact" />
  </div>
  
  &nbsp;
@@ -84,9 +84,9 @@
 </div>&nbsp;&nbsp;
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusAquatico/MatheusAquatico/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusAquatico/MatheusAquatico/output/github-contribution-grid-snake.svg">
-  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusAquatico/MatheusAquatico/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMarinhoLeca/MatheusMarinhoLeca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMarinhoLeca/MatheusMarinhoLeca/output/github-contribution-grid-snake.svg">
+  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusMarinhoLeca/MatheusMarinhoLeca/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E5891C&height=120&section=footer"/>
